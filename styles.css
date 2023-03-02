@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+
+h1 {
+color: blue;
+}
+
+
+    #testP {
+       background-color: aqua;
+        }
+
+.funParagraph {
+    color: green;
+    border: 5px solid red;
+    padding: 5px;
+    text-align: center;
+  }
+
+  body {
+    margin: 8px;
+    display: block;
+  }
+
+  #mainHeading {
+    color: red;
+  }
